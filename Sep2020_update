@@ -1,0 +1,9 @@
+# Not Code! - 30-SEP-2020
+
+# Due to later releases of the libraries in the book, I kept running into problems when trying to install EgeaML. 
+# I updated  the setup.py file with the latest versions of the libraries from pypi.org 
+# I also updated the requirements.txt file with the same.
+# Then I cloned my new (forked) repository and successfully installed EgeaML.
+# I hope this is of help.
+# Now I am working through the book and I am hoping nothing falls apart!
+# Godspeed.
