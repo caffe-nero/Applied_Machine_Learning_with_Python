@@ -5,7 +5,9 @@ Given:
 # Due to later releases of the libraries in the book, I kept running into problems when trying to install egeaML package. 
 # After forking, I updated  the setup.py file with the latest versions of the python packages from pypi.org. 
 # I also updated the requirements.txt file with the same.
-# Then I cloned my new (forked) repository and successfully installed egeaML. In my virtual environment I did :
+# Then I cloned my new repository to a local directory \EgeaML
+        git clone https://github.com/caffe-nero/Applied_Machine_Learning_with_Python.git EgeaML
+and successfully installed egeaML by typing code below in my python virtual environment terminal:
         pip3 install git+https://github.com/caffe-nero/Applied_Machine_Learning_with_Python.git
 # That's how I successfully installed egeaML.        
 # I hope this is of help.Now I am working through the book and I am hoping nothing falls apart!
